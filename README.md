@@ -16,6 +16,12 @@ Cada tema vive en su propia carpeta e incluye un `README.md` con el índice, los
 
 ---
 
+## Bloques de ejercicios
+
+Bloques de repaso 1–15 (60 ejercicios), uno por proyecto como en los temas: [`Bloques/`](Bloques/) · [README con el índice](Bloques/README.md).
+
+---
+
 ## Estructura
 
 ```
