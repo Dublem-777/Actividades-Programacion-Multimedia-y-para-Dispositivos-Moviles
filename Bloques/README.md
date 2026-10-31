@@ -10,15 +10,15 @@ La explicación de cada ejercicio (enunciado, conceptos, explicación paso a pas
 
 | Bloque | Carpeta | Ejercicios | Contenido |
 | --- | --- | --- | --- |
-| 1 | [`Bloque1/`](Bloque1/) | 1.1 | Media de notas, mayor y menor (`readln`, plantillas) |
-| 2 | [`Bloque2/`](Bloque2/) | 2.1 – 2.2 | Ordenar 3 números con `if` · mayúscula/minúscula por código |
-| 3 | [`Bloque3/`](Bloque3/) | 3.1 – 3.6 | Arrays · `Any?` · primos · bisiestos · argumentos por defecto y con nombre |
-| 4 | [`Bloque4/`](Bloque4/) | 4.1 – 4.5 | `vararg` · `infix` · `when` anidado, sin sujeto y con sujeto |
-| 5 | [`Bloque5/`](Bloque5/) | 5.1 – 5.3 | `when` sobre `Any?` con guardas · árbol de Navidad con `for` y `repeat` |
-| 6 | [`Bloque6/`](Bloque6/) | 6.1 – 6.3 | Llamada segura `?.` · Elvis `?:` · cast seguro `as?` |
-| 7 | [`Bloque7/`](Bloque7/) | 7.1 – 7.3 | `init` y `require` · constructor secundario · setter con validación |
-| 8 | [`Bloque8/`](Bloque8/) | 8.1 – 8.5 | Propiedad de respaldo · herencia · `inner` · `object` · `companion object` |
-| 9 | [`Bloque9/`](Bloque9/) | 9.1 – 9.3 | `data class` y `copy()` · desestructuración · clase abstracta |
+| 1 | [`Bloque01/`](Bloque01/) | 1.1 | Media de notas, mayor y menor (`readln`, plantillas) |
+| 2 | [`Bloque02/`](Bloque02/) | 2.1 – 2.2 | Ordenar 3 números con `if` · mayúscula/minúscula por código |
+| 3 | [`Bloque03/`](Bloque03/) | 3.1 – 3.6 | Arrays · `Any?` · primos · bisiestos · argumentos por defecto y con nombre |
+| 4 | [`Bloque04/`](Bloque04/) | 4.1 – 4.5 | `vararg` · `infix` · `when` anidado, sin sujeto y con sujeto |
+| 5 | [`Bloque05/`](Bloque05/) | 5.1 – 5.3 | `when` sobre `Any?` con guardas · árbol de Navidad con `for` y `repeat` |
+| 6 | [`Bloque06/`](Bloque06/) | 6.1 – 6.3 | Llamada segura `?.` · Elvis `?:` · cast seguro `as?` |
+| 7 | [`Bloque07/`](Bloque07/) | 7.1 – 7.3 | `init` y `require` · constructor secundario · setter con validación |
+| 8 | [`Bloque08/`](Bloque08/) | 8.1 – 8.5 | Propiedad de respaldo · herencia · `inner` · `object` · `companion object` |
+| 9 | [`Bloque09/`](Bloque09/) | 9.1 – 9.3 | `data class` y `copy()` · desestructuración · clase abstracta |
 | 10 | [`Bloque10/`](Bloque10/) | 10.1 – 10.3 | Enum con propiedades · interfaces · *object expressions* |
 | 11 | [`Bloque11/`](Bloque11/) | 11.1 – 11.3 | `const val` · *extension function* · *extension property* |
 | 12 | [`Bloque12/`](Bloque12/) | 12.1 – 12.5 | *Top-level* y `private` · `lateinit` · orden superior · `filter`/`map` |
@@ -35,12 +35,12 @@ El ejercicio **12.1** tiene dos ficheros (`src/StringUtils.kt` y `src/Main.kt`),
 ```
 Bloques/
 ├── README.md
-├── Bloque1/
+├── Bloque01/
 │   └── Ejercicio1.1/
 │       ├── Ejercicio1.1.iml
 │       ├── .idea/
 │       └── src/Main.kt
-├── Bloque2/
+├── Bloque02/
 │   ├── Ejercicio2.1/
 │   └── Ejercicio2.2/
 └── …
@@ -48,13 +48,13 @@ Bloques/
 
 ## Cómo ejecutar un ejercicio
 
-1. En IntelliJ IDEA: **File → Open** y elegir la carpeta `BloqueN/EjercicioN.M/`.
+1. En IntelliJ IDEA: **File → Open** y elegir la carpeta `BloqueNN/EjercicioN.M/` (por ejemplo, `Bloque03/Ejercicio3.4/`).
 2. Ejecutar `src/Main.kt` con el botón ▶ junto a `fun main()`.
 
 Desde terminal:
 
 ```bash
-kotlinc Bloques/Bloque3/Ejercicio3.4/src/*.kt -include-runtime -d /tmp/ej.jar
+kotlinc Bloques/Bloque03/Ejercicio3.4/src/*.kt -include-runtime -d /tmp/ej.jar
 java -jar /tmp/ej.jar
 ```
 
