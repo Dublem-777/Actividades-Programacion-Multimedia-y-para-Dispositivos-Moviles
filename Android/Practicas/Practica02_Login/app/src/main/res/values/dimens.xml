@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="main_padding">16dp</dimen>
+    <dimen name="main_field_marginTop">16dp</dimen>
+    <dimen name="main_btnLogin_marginTop">16dp</dimen>
+</resources>

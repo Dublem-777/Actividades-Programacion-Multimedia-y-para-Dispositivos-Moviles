@@ -1,0 +1,6 @@
+<resources>
+    <!-- Color de la etiqueta cuyo campo tiene el foco -->
+    <color name="main_focused">#6750A4</color>
+    <!-- Color de la etiqueta cuyo campo no tiene el foco -->
+    <color name="main_unfocused">#49454F</color>
+</resources>

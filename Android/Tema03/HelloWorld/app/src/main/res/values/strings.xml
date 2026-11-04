@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <!-- Texto inicial de la etiqueta (antes era el literal "Hello World!") -->
+    <string name="main_lblMessage">Hello World!</string>
+    <!-- Texto que pone la actividad al arrancar -->
+    <string name="main_wonderful">Hello. What a wonderful world!</string>
+</resources>

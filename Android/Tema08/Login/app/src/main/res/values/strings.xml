@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="main_imgLogo">App logo</string>
+    <string name="main_lblUsername">Username</string>
+    <string name="main_txtUsername">Enter your username</string>
+    <string name="main_lblPassword">Password</string>
+    <string name="main_txtPassword">Enter your password</string>
+    <string name="main_btnLogin">Login</string>
+    <!-- %1$s = usuario, %2$s = contraseña -->
+    <string name="main_connecting">Connecting as %1$s with password %2$s</string>
+</resources>

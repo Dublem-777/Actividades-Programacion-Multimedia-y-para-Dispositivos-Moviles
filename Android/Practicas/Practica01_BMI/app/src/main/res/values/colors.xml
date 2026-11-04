@@ -1,0 +1,11 @@
+<resources>
+    <!-- Colores de las clasificaciones, del enunciado -->
+    <color name="bmi_underweight">#FFEB5123</color>
+    <color name="bmi_normal_weight">#FF71F34C</color>
+    <color name="bmi_overweight">#FFF0AC3C</color>
+    <color name="bmi_obesity1">#FFEF8C34</color>
+    <color name="bmi_obesity2">#FFEA5528</color>
+    <color name="bmi_obesity3">#FFE83523</color>
+    <!-- Fondo del resultado cuando no se muestra la clasificación -->
+    <color name="main_result_neutral">#FF6750A4</color>
+</resources>

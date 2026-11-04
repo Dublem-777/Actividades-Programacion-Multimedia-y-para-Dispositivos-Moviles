@@ -1,0 +1,6 @@
+<resources>
+    <!-- Distancias en dp -->
+    <dimen name="main_margin">16dp</dimen>
+    <!-- Tamaños de texto en sp -->
+    <dimen name="main_lblMessage_textSize">20sp</dimen>
+</resources>

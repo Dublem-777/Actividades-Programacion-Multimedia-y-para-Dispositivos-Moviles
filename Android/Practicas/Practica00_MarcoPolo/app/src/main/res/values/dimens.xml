@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="main_padding">16dp</dimen>
+    <dimen name="main_btnToggle_marginTop">16dp</dimen>
+</resources>

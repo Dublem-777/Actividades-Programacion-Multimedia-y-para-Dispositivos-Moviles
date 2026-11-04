@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarcoPolo</string>
+    <string name="main_marco">Marco</string>
+    <string name="main_polo">Polo</string>
+</resources>

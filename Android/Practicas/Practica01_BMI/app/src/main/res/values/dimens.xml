@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="main_padding">16dp</dimen>
+    <dimen name="main_section_marginTop">24dp</dimen>
+    <dimen name="main_field_marginTop">8dp</dimen>
+    <dimen name="main_swtConvert_marginStart">16dp</dimen>
+    <dimen name="main_btnReset_marginStart">8dp</dimen>
+    <dimen name="main_lblResult_padding">8dp</dimen>
+    <dimen name="main_prgBmi_marginTop">16dp</dimen>
+    <dimen name="main_prgBmi_thickness">6dp</dimen>
+</resources>

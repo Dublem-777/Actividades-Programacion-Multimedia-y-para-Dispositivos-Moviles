@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CountingClicks</string>
+    <string name="main_btnClickMe">Click me</string>
+
+    <!-- Mismo plural que en los apuntes del Tema 3 -->
+    <plurals name="main_times">
+        <item quantity="one">%1$d time</item>
+        <item quantity="other">%1$d times</item>
+    </plurals>
+</resources>

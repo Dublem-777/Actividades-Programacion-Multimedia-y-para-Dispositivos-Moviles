@@ -1,0 +1,4 @@
+<resources>
+    <!-- Valor máximo de la barra de progreso del BMI -->
+    <integer name="main_bmi_max">45</integer>
+</resources>

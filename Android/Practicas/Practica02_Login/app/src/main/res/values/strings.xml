@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="main_tilUsername">Username</string>
+    <string name="main_tilPassword">Password</string>
+    <string name="main_required">* required</string>
+    <!-- El apóstrofo se escapa con \ en los recursos de cadena -->
+    <string name="main_blank_username">Can\'t be blank</string>
+    <string name="main_invalid_password">Invalid password</string>
+    <string name="main_btnLogin">Login</string>
+    <string name="main_user_not_found">User not found</string>
+    <string name="main_user_logged_in">User logged in</string>
+    <!-- En mayúsculas, como en la captura: Material 3 ya no las pone solo -->
+    <string name="main_show">SHOW</string>
+    <string name="main_user_data">User data</string>
+    <!-- %1$s = nombre de usuario -->
+    <string name="main_logged_in_as">Logged in as %1$s</string>
+    <string name="main_accept">Accept</string>
+</resources>
